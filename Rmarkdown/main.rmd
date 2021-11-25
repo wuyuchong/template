@@ -30,3 +30,6 @@ library(dplyr)
 \tableofcontents
 
 \newpage
+
+- \usepackage{setspace}\doublespacing
+
